@@ -71,8 +71,5 @@ Below is an animated GIF that shows a test run of the Brain Tumor Detection Web 
 ## Contributing
 We welcome contributions! If you have suggestions or issues, please open a ticket in the [issues](<GitHub-Issues-Link>) section of this repository.
 
-## License
-This project is licensed under [MIT License](<License-Link>).
-
 ## Contact
 If you want to contact me, please reach out through [GitHub](<GitHub-Profile-Link>).
